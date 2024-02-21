@@ -2,7 +2,7 @@
     "name": "nodecli-template",
     "displayName": "nodecli-template",
     "description": "A template for creating a node cli application",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "license": "MIT",
     "main": "src/app.js",
     "type": "module",
